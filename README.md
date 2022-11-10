@@ -1,0 +1,1 @@
+# MInstAll-by-GOG
