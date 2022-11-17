@@ -1,0 +1,1 @@
+bitsadmin /Transfer MInstAllbyGOG /DOWNLOAD /Priority FOREGROUND https://github.com/byGOG/MInstAll-by-GOG/releases/download/v1/MInstAllbyGOG.exe %USERPROFILE%\Desktop\MInstAllbyGOG.exe & START /wait %USERPROFILE%\Desktop\MInstAllbyGOG.exe
